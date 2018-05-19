@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "name": "William Brander",
+      "company": "Particular Software",
+      "social": {
+        "twitter": "https://twitter.com/williambZA",
+        "linkedin": "https://www.linkedin.com/in/william-brander-ba38b1117/"
+      },
+      "tag": "william-brander"
+    },
+    {
+      "name": "Ola Kunysz",
+      "company": "Tipser",
+      "social": {
+        "twitter": "https://twitter.com/olaqnysz",
+        "linkedin": "https://www.linkedin.com/in/akunysz/"
+      },
+      "tag": "ola-kunysz"
+    },
+    {
+      "name": "Bernd Rücker",
+      "company": "Camunda",
+      "social": {
+        "twitter": "https://twitter.com/berndruecker",
+        "linkedin": "https://www.linkedin.com/in/bernd-ruecker-21661122/"
+      },
+      "tag": "bernd-rucker"
+    },
+    {
+      "name": "Markus Winand",
+      "company": "Independent Consultant",
+      "social": {
+        "twitter": "https://twitter.com/MarkusWinand",
+        "linkedin": "https://www.linkedin.com/in/markuswinand/"
+      },
+      "tag": "markus-winand"
+    }
+  ]
+}

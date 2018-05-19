@@ -1,0 +1,21 @@
+<div class="col-sm-3">
+  <div class="speaker">
+    <div class="photo-wrapper">
+      <%= tag :img, :src => '/images/speakers/' + speaker.tag + '.png', :alt => speaker.name, :class => 'img-responsive' %>
+    </div>
+    <h3 class="name">
+      <%= link_to speaker.name, '/speakers/' + speaker.tag + '.html' %>
+    </h3>
+    <p class="text-alt">
+      <small><%= speaker.company %></small>
+    </p>
+    <ul class="speaker-socials">
+      <% if speaker.social.twitter != nil %>
+        <li><a href="<%= speaker.social.twitter %>"><span class="fa fa-twitter"></span></a></li>
+      <% end %>
+      <% if speaker.social.linkedin != nil %>
+        <li><a href="<%= speaker.social.linkedin %>"><span class="fa fa-linkedin"></span></a></li>
+      <% end %>
+    </ul>
+  </div>
+</div>

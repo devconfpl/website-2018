@@ -1,0 +1,17 @@
+<section id="speakers" class="section align-center">
+  <div class="container">
+    <span class="icon section-icon icon-faces-users-04"></span>
+    <h3>Speakers</h3>
+    <p class="text-alt">Meet our <span class="highlight">professionals</span></p>
+    <p>More speakers to be revealed in coming weeks.</p>
+
+    <br />
+    <br />
+
+    <ol>
+      <% data.speakers.items.sort_by(&:name).each do |s| %>
+        <%= partial(:speaker, :locals => { :speaker => s }) %>
+      <% end %>
+    </ol>
+  </div>
+</section>
