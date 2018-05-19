@@ -28,7 +28,7 @@ page '/*.txt', layout: false
 # )
 
 data.speakers.items.each do |s|
-  proxy "/speakers/#{s.tag}.html", "/speakers/template.html", :locals => {}, :ignore => true
+  proxy "/speakers/#{s.tag}.html", "/speakers/template.html", :locals => { :speaker => s }, :ignore => true
 end
 
 # Helpers

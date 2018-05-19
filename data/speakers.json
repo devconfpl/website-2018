@@ -7,7 +7,8 @@
         "twitter": "https://twitter.com/williambZA",
         "linkedin": "https://www.linkedin.com/in/william-brander-ba38b1117/"
       },
-      "tag": "william-brander"
+      "tag": "william-brander",
+      "description": "<p>A professional geek, William works for Particular Software writing amazing software like NServiceBus. Passionate about the web, he is engaged in a sordid love affair with JavaScript, and spends most of his free time trying to convince others of it’s beauty and elegance.</p><p>When not behind his laptop hacking away, this amateur beer enthusiast can often be found playing boardgames or drinking cold-brew coffee.</p>"
     },
     {
       "name": "Ola Kunysz",
@@ -16,7 +17,8 @@
         "twitter": "https://twitter.com/olaqnysz",
         "linkedin": "https://www.linkedin.com/in/akunysz/"
       },
-      "tag": "ola-kunysz"
+      "tag": "ola-kunysz",
+      "description": "<p>Ola Kunysz is a programmer with 11 years of experience in software engineering, going it's through all stages, from business analysis to backend programming. Her biggest interest is solving real-life problems and writing code that matters. For 2 years she organised meetups and workshops of Geek Girls Carrots in Wrocław. She enjoys meeting people and working on interesting projects, so you can meet her on hackathons and conferences. When it’s time to relax, she’s offline [with dog(s), playing board games, in the forest, in the mountains]*.</p>"
     },
     {
       "name": "Bernd Rücker",
@@ -25,7 +27,8 @@
         "twitter": "https://twitter.com/berndruecker",
         "linkedin": "https://www.linkedin.com/in/bernd-ruecker-21661122/"
       },
-      "tag": "bernd-rucker"
+      "tag": "bernd-rucker",
+      "description": "<p>Throughout my 15+ years in software development, I have helped automating highly scalable core workflows at global companies including T-Mobile, Lufthansa and Zalando. I have contributed to various open source workflow engines. I am co-founder and developer advocate of Camunda, an open source software company reinventing workflow automation. I co-authored \"Real-Life BPMN,\" a popular book about workflow modeling and automation, now in its fifth edition and available in English, German and Spanish. I regularly speak at conferences and write for various magazines. I am currently focused on new workflow automation paradigms that fit into modern architectures around distributed systems, microservices, domain-driven design, event-driven architecture and reactive systems.</p>"
     },
     {
       "name": "Markus Winand",
@@ -34,7 +37,8 @@
         "twitter": "https://twitter.com/MarkusWinand",
         "linkedin": "https://www.linkedin.com/in/markuswinand/"
       },
-      "tag": "markus-winand"
+      "tag": "markus-winand",
+      "description": "<p>Markus Winand is an independent author, trainer and consultant on all things SQL. His book “SQL Performance Explained” has just been translated into a fifth language. It can be purchased as a print edition, and it’s also available to read for free on his use-the-index-luke.com website. Markus is currently working on his second book centered on the idea that things have changed a lot since SQL-92. It is likewise available free of charge online (modern-sql.com).</p>"
     }
   ]
 }
