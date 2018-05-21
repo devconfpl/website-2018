@@ -1,7 +1,21 @@
 {
-  "speakers_count": 37,
-  "days_count": 3,
-  "workshops_count": 4,
-  "talks_count": 36,
-  "gallery_size": 12
+  "gallery_size": 12,
+  "counters" : [
+    {
+      "name": "speakers",
+      "value": 37
+    },
+    {
+      "name": "days",
+      "value": 3
+    },
+    {
+      "name": "workshops",
+      "value": 4
+    },
+    {
+      "name": "talks",
+      "value": 36
+    }
+  ]
 }

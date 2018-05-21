@@ -41,6 +41,16 @@ end
 #   end
 # end
 
+helpers do
+  def twitter_link handle
+    'https://twitter.com/' + handle
+  end
+
+  def linkedin_link handle
+    'https://www.linkedin.com/in/' + handle + '/'
+  end
+end
+
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
 

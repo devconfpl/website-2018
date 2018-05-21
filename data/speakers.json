@@ -4,8 +4,8 @@
       "name": "William Brander",
       "company": "Particular Software",
       "social": {
-        "twitter": "https://twitter.com/williambZA",
-        "linkedin": "https://www.linkedin.com/in/william-brander-ba38b1117/"
+        "twitter": "williambZA",
+        "linkedin": "william-brander-ba38b1117"
       },
       "tag": "william-brander",
       "description": "<p>A professional geek, William works for Particular Software writing amazing software like NServiceBus. Passionate about the web, he is engaged in a sordid love affair with JavaScript, and spends most of his free time trying to convince others of it’s beauty and elegance.</p><p>When not behind his laptop hacking away, this amateur beer enthusiast can often be found playing boardgames or drinking cold-brew coffee.</p>"
@@ -14,8 +14,8 @@
       "name": "Ola Kunysz",
       "company": "Tipser",
       "social": {
-        "twitter": "https://twitter.com/olaqnysz",
-        "linkedin": "https://www.linkedin.com/in/akunysz/"
+        "twitter": "olaqnysz",
+        "linkedin": "akunysz"
       },
       "tag": "ola-kunysz",
       "description": "<p>Ola Kunysz is a programmer with 11 years of experience in software engineering, going it's through all stages, from business analysis to backend programming. Her biggest interest is solving real-life problems and writing code that matters. For 2 years she organised meetups and workshops of Geek Girls Carrots in Wrocław. She enjoys meeting people and working on interesting projects, so you can meet her on hackathons and conferences. When it’s time to relax, she’s offline [with dog(s), playing board games, in the forest, in the mountains]*.</p>"
@@ -24,8 +24,8 @@
       "name": "Bernd Rücker",
       "company": "Camunda",
       "social": {
-        "twitter": "https://twitter.com/berndruecker",
-        "linkedin": "https://www.linkedin.com/in/bernd-ruecker-21661122/"
+        "twitter": "berndruecker",
+        "linkedin": "bernd-ruecker-21661122"
       },
       "tag": "bernd-rucker",
       "description": "<p>Throughout my 15+ years in software development, I have helped automating highly scalable core workflows at global companies including T-Mobile, Lufthansa and Zalando. I have contributed to various open source workflow engines. I am co-founder and developer advocate of Camunda, an open source software company reinventing workflow automation. I co-authored \"Real-Life BPMN,\" a popular book about workflow modeling and automation, now in its fifth edition and available in English, German and Spanish. I regularly speak at conferences and write for various magazines. I am currently focused on new workflow automation paradigms that fit into modern architectures around distributed systems, microservices, domain-driven design, event-driven architecture and reactive systems.</p>"
@@ -34,8 +34,8 @@
       "name": "Markus Winand",
       "company": "Independent Consultant",
       "social": {
-        "twitter": "https://twitter.com/MarkusWinand",
-        "linkedin": "https://www.linkedin.com/in/markuswinand/"
+        "twitter": "MarkusWinand",
+        "linkedin": "markuswinand"
       },
       "tag": "markus-winand",
       "description": "<p>Markus Winand is an independent author, trainer and consultant on all things SQL. His book “SQL Performance Explained” has just been translated into a fifth language. It can be purchased as a print edition, and it’s also available to read for free on his use-the-index-luke.com website. Markus is currently working on his second book centered on the idea that things have changed a lot since SQL-92. It is likewise available free of charge online (modern-sql.com).</p>"
@@ -44,8 +44,8 @@
       "name": "Dave Aronson",
       "company": "Codosaurus, LLC",
       "social": {
-        "twitter": "https://twitter.com/davearonson",
-        "linkedin": "https://www.linkedin.com/in/davearonson/"
+        "twitter": "davearonson",
+        "linkedin": "davearonson"
       },
       "tag": "dave-aronson",
       "description": "<p>The speaker, Dave Aronson, has over three decades of professional software development experience, in a wide variety of languages, systems, techniques, and domains, mostly in Ruby for the past several years and mostly in C before that. He is the T. Rex of <a href='http://www.Codosaur.us/'>Codosaurus, LLC</a> in Fairfax, Virginia, a suburb of Washington DC. What he really does is “software development consulting”, which means not only cranking out code, but also advising development teams on processes, techniques, and tools; training and mentoring developers; and roadmapping projects. He is married, and co-owned by two cats (see their playlists on <a href='https://www.youtube.com/davearonson'>https://www.youtube.com/davearonson</a>). He also enjoys dark beers, smokey scotches and bourbons, playing guitar, and shooting targets.</p>"
@@ -54,8 +54,8 @@
       "name": "Julie Matviyuk",
       "company": "Symantec",
       "social": {
-        "twitter": "https://twitter.com/jmatviyuk",
-        "linkedin": "https://www.linkedin.com/in/juliematviyuk/"
+        "twitter": "jmatviyuk",
+        "linkedin": "juliematviyuk"
       },
       "tag": "julie-matviyuk",
       "description": "<p>Platform Engineering Manager (Agile) at Symantec, keeping the antivirus in check since 2005. French, happily living in Ireland. Jacques of all trades, master of science (Security and Forensic Computing). I want to bridge the gap between InfoSec and Software Development. When I’m not hunting False Positives, I split my time between my cat and my garden.</p>"
@@ -64,8 +64,8 @@
       "name": "Marek Stój",
       "company": "SoftServe",
       "social": {
-        "twitter": "https://twitter.com/MarekStoj",
-        "linkedin": "https://www.linkedin.com/in/marekstoj/"
+        "twitter": "MarekStoj",
+        "linkedin": "marekstoj"
       },
       "tag": "marek-stoj",
       "description": "<p>Marek is an experienced software developer. During his professional career spanning more than 10 years, he worked with technologies like .NET, C#, Android, Java, Big Data or Scala. Marek is simply a computer geek, specifically fascinated by the ever-growing influence of theoretical foundations of computer science on the IT industry.</p><p>Today it is not his career that is important though, because Marek also realized recently, that a passion can easily turn into an obsession which blinds us from the truth - that there is more to life than coding. And this idea, he believes, is worth spreading among fellow IT geeks.</p>"
@@ -74,8 +74,8 @@
       "name": "Philipp Krenn",
       "company": "Elastic",
       "social": {
-        "twitter": "https://twitter.com/xeraa",
-        "linkedin": "https://www.linkedin.com/in/philippkrenn/"
+        "twitter": "xeraa",
+        "linkedin": "philippkrenn"
       },
       "tag": "philipp-krenn",
       "description": "<p>Philipp is part of the infrastructure team and a developer advocate at Elastic. He is frequently talking about full-text search, databases, operations, and security. Additionally, he is organizing multiple meetups in Vienna.</p>"

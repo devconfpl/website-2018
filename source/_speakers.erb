@@ -8,10 +8,12 @@
     <br />
     <br />
 
-    <ol>
-      <% data.speakers.items.sort_by(&:name).each do |s| %>
-        <%= partial(:speaker, :locals => { :speaker => s }) %>
-      <% end %>
-    </ol>
+    <% data.speakers.items.sort_by(&:name).each do |s| %>
+      <%= partial(:speaker, :locals => { :speaker => s }) %>
+    <% end %>
+
+    <p>
+      There are still more speakers to be announced. Watch us to get updates!
+    </p>
   </div>
 </section>

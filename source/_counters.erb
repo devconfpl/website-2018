@@ -1,55 +1,23 @@
-<!-- TODO: fill with correct number -->
 <section id="counters" class="section align-center overlay overlay-clr bg-cover bg5 light-text">
   <div class="container">
 
     <div class="row counters-wrapper">
-      <div class="col-sm-3">
-        <div class="counter-block counter-block-no-border">
-          <div class="counter-box">
-            <div class="counter-content">
-              <span class="count" data-from="0" data-to="<%= data.general.speakers_count %>">0</span>
-
-              <p class="title">speakers</p>
+      <% data.general.counters.each do |counter| %>
+        <div class="col-sm-3">
+          <div class="counter-block counter-block-no-border">
+            <div class="counter-box">
+              <div class="counter-content">
+                <% content_tag :span, :class => "count", :"data-from" => "0", :"data-to" => counter.value do %>
+                  0
+                <% end %>
+                <% content_tag :p, :class => "title" do %>
+                  <%= counter.name %>
+                <% end %>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-
-      <div class="col-sm-3">
-        <div class="counter-block counter-block-no-border">
-          <div class="counter-box">
-            <div class="counter-content">
-              <span class="count" data-from="0" data-to="<%= data.general.days_count %>">0</span>
-
-              <p class="title">days</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-3">
-        <div class="counter-block counter-block-no-border">
-          <div class="counter-box">
-            <div class="counter-content">
-              <span class="count" data-from="0" data-to="<%= data.general.workshops_count %>">0</span>
-
-              <p class="title">workshops</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-3">
-        <div class="counter-block counter-block-no-border">
-          <div class="counter-box">
-            <div class="counter-content">
-              <span class="count" data-from="0" data-to="<%= data.general.talks_count %>">0</span>
-
-              <p class="title">speeches</p>
-            </div>
-          </div>
-        </div>
-      </div>
+      <% end %>
     </div>
   </div>
 </section>
