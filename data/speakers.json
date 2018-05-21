@@ -39,6 +39,46 @@
       },
       "tag": "markus-winand",
       "description": "<p>Markus Winand is an independent author, trainer and consultant on all things SQL. His book “SQL Performance Explained” has just been translated into a fifth language. It can be purchased as a print edition, and it’s also available to read for free on his use-the-index-luke.com website. Markus is currently working on his second book centered on the idea that things have changed a lot since SQL-92. It is likewise available free of charge online (modern-sql.com).</p>"
+    },
+    {
+      "name": "Dave Aronson",
+      "company": "Codosaurus, LLC",
+      "social": {
+        "twitter": "https://twitter.com/davearonson",
+        "linkedin": "https://www.linkedin.com/in/davearonson/"
+      },
+      "tag": "dave-aronson",
+      "description": "<p>The speaker, Dave Aronson, has over three decades of professional software development experience, in a wide variety of languages, systems, techniques, and domains, mostly in Ruby for the past several years and mostly in C before that. He is the T. Rex of <a href='http://www.Codosaur.us/'>Codosaurus, LLC</a> in Fairfax, Virginia, a suburb of Washington DC. What he really does is “software development consulting”, which means not only cranking out code, but also advising development teams on processes, techniques, and tools; training and mentoring developers; and roadmapping projects. He is married, and co-owned by two cats (see their playlists on <a href='https://www.youtube.com/davearonson'>https://www.youtube.com/davearonson</a>). He also enjoys dark beers, smokey scotches and bourbons, playing guitar, and shooting targets.</p>"
+    },
+    {
+      "name": "Julie Matviyuk",
+      "company": "Symantec",
+      "social": {
+        "twitter": "https://twitter.com/jmatviyuk",
+        "linkedin": "https://www.linkedin.com/in/juliematviyuk/"
+      },
+      "tag": "julie-matviyuk",
+      "description": "<p>Platform Engineering Manager (Agile) at Symantec, keeping the antivirus in check since 2005. French, happily living in Ireland. Jacques of all trades, master of science (Security and Forensic Computing). I want to bridge the gap between InfoSec and Software Development. When I’m not hunting False Positives, I split my time between my cat and my garden.</p>"
+    },
+    {
+      "name": "Marek Stój",
+      "company": "SoftServe",
+      "social": {
+        "twitter": "https://twitter.com/MarekStoj",
+        "linkedin": "https://www.linkedin.com/in/marekstoj/"
+      },
+      "tag": "marek-stoj",
+      "description": "<p>Marek is an experienced software developer. During his professional career spanning more than 10 years, he worked with technologies like .NET, C#, Android, Java, Big Data or Scala. Marek is simply a computer geek, specifically fascinated by the ever-growing influence of theoretical foundations of computer science on the IT industry.</p><p>Today it is not his career that is important though, because Marek also realized recently, that a passion can easily turn into an obsession which blinds us from the truth - that there is more to life than coding. And this idea, he believes, is worth spreading among fellow IT geeks.</p>"
+    },
+    {
+      "name": "Philipp Krenn",
+      "company": "Elastic",
+      "social": {
+        "twitter": "https://twitter.com/xeraa",
+        "linkedin": "https://www.linkedin.com/in/philippkrenn/"
+      },
+      "tag": "philipp-krenn",
+      "description": "<p>Philipp is part of the infrastructure team and a developer advocate at Elastic. He is frequently talking about full-text search, databases, operations, and security. Additionally, he is organizing multiple meetups in Vienna.</p>"
     }
   ]
 }
