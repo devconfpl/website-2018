@@ -9,19 +9,9 @@
     <div class="gallery masonry">
       <% data.general.gallery_size.times do |n| %>
         <span class="masonry-item">
-          <a href="#" class="gallery-thumb-link" data-modal-link="gallery-<%= (n + 1).to_s() %>">
-            <%= image_tag '/images/gallery/gallery' + (n + 1).to_s() + '-thumb.jpg' %>
+          <a href="/images/gallery/gallery<%= (n + 1).to_s() %>.jpg" data-fancybox="gallery" data-caption="">
+          	<img src="/images/gallery/gallery<%= (n + 1).to_s() %>-thumb.jpg" alt="" />
           </a>
-          <div class="modal-window" data-modal="gallery-<%= (n + 1).to_s() %>">
-            <div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
-              <span class="close-btn icon icon-office-52"></span>
-
-              <%= tag :img,
-                      :src => '/images/gallery/gallery' + (n + 1).to_s() + '.jpg',
-                      :alt => 'gallery' + (n + 1).to_s(),
-                      :class => 'full-width-img' %>
-            </div>
-          </div>
         </span>
       <% end %>
     </div>
