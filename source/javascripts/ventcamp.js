@@ -1217,7 +1217,7 @@ Ventcamp = {
     }
 }
 
-$('.navigation-item').on( 'click', function (event) {
+$('.navigation-item, .navigation-button').on( 'click', function (event) {
     if($('#navigation').hasClass('in')){
         $('#navigation').removeClass('in');
     }

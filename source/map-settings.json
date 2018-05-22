@@ -1,7 +1,7 @@
 {
-	"mapZoom": 15,
+	"mapZoom": 13,
 	"markerAddress": "Dobrego Pasterza 128, Kraków, Poland",
 	"offsetX": 100,
 	"offsetY": 10,
-	"markerImagePath": "/images/marker-21x32.png"
+	"markerImagePath": "/images/marker-46x46.png"
 }
