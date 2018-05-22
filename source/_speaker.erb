@@ -1,12 +1,12 @@
 <div class="col-sm-3">
   <div class="speaker">
     <div class="photo-wrapper">
-      <a href="/speakers/<%= speaker.tag %>.html">
+      <a href="/speakers/<%= speaker.tag %>">
         <%= tag :img, :src => '/images/speakers/' + speaker.tag + '.png', :alt => speaker.name, :class => 'img-responsive' %>
       </a>
     </div>
     <h3 class="name">
-      <%= link_to speaker.name, '/speakers/' + speaker.tag + '.html' %>
+      <%= link_to speaker.name, '/speakers/' + speaker.tag %>
     </h3>
     <p class="text-alt">
       <small><%= speaker.company %></small>

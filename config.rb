@@ -5,6 +5,8 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
+activate :directory_indexes
+
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 
@@ -28,7 +30,7 @@ page '/*.txt', layout: false
 # )
 
 data.speakers.items.each do |s|
-  proxy "/speakers/#{s.tag}.html", "/speakers/template.html", :locals => { :speaker => s }, :ignore => true
+  proxy "/speakers/#{s.tag}/index.html", "/speakers/template.html", :locals => { :speaker => s }, :ignore => true
 end
 
 # Helpers
