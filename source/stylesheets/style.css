@@ -2409,6 +2409,10 @@ input.header.header-color .navigation-header .buy-btn,
 .header .buy-btn {
   color: #4ecdc4;
 }
+
+a {
+  color: #ff6b6b;
+}
 /*::selection {
   color: #ffffff;
   background-color: rgba(254, 73, 24, 0.85);
