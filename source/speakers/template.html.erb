@@ -40,7 +40,7 @@
           <div class="entry-content">
             <div class="col-md-offset-2 col-md-8 speaker">
               <div class="thumb-wrapper post-thumbnail">
-                <img src="<%= '../images/speakers/' + speaker.tag + '.png' %>" alt="<%= speaker.name %>" />
+                <%= tag :img, :src => '/images/speakers/' + speaker.tag + '.png', :alt => speaker.name %>
               </div>
               <h2><%= speaker.name %></h2>
               <p class="text-alt"><%= speaker.company %></p>
