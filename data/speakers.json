@@ -79,6 +79,46 @@
       },
       "tag": "philipp-krenn",
       "description": "<p>Philipp is part of the infrastructure team and a developer advocate at Elastic. He is frequently talking about full-text search, databases, operations, and security. Additionally, he is organizing multiple meetups in Vienna.</p>"
+    },
+    {
+      "name": "Adam Ralph",
+      "company": "Particular Software",
+      "social": {
+        "twitter": "adamralph",
+        "linkedin": "adamralph"
+      },
+      "tag": "adam-ralph",
+      "description": "<p>Adam is a distributed systems enthusiast and digital nomad. He works for Particular Software, the makers of NServiceBus. He likes to speak, maintain open source projects, and fix white space rule violations. He is a practiced tea drinker and snowboarder. He’s often spotted coding in launderettes throughout Western Europe.</p>"
+    },
+    {
+      "name": "Dominick Baier",
+      "company": "Independent Consultant",
+      "social": {
+        "twitter": "leastprivilege",
+        "linkedin": "dominickbaier"
+      },
+      "tag": "dominick-baier",
+      "description": "<p>Dominick Baier is an independent consultant specializing in identity & access control. He helps companies around the world designing & implementing authentication and authorization for their distributed web and native applications. He’s the co-author of the popular OpenID Connect & OAuth 2.0 framework called <a href=\"https://identityserver.io\">IdentityServer</a>, has written a couple of books, blogs at <a href=\"https://leastprivilege.com\">https://leastprivilege.com</a> and tweets as <a href=\"https://twitter.com/leastprivilege\">@leastprivilege</a>.</p>"
+    },
+    {
+      "name": "Agnieszka Jach",
+      "company": "mBank",
+      "social": {
+        "twitter": "aga_jach",
+        "linkedin": "agnieszka-jach-a21342a6"
+      },
+      "tag": "agnieszka-jach",
+      "description": "<p>She is a recent graduate of University of Technology in Łódź. She was a leader of .NET group at university sharing her passion to technology with other students. Currently working with mBank team as full stack developer. Loving conferences, sharing knowledge and always staying for one more drink. When she is not coding, she lifts.</p>"
+    },
+    {
+      "name": "James Allardice",
+      "company": "orangejellyfish",
+      "social": {
+        "twitter": "james_allardice",
+        "linkedin": "jamesallardice"
+      },
+      "tag": "james-allardice",
+      "description": "<p>James is a senior engineer with several years experience building single page web apps with Node.js and a variety of front-end technologies. He’s the co-founder of orangejellyfish, a software consultancy based in London with a passion for JavaScript, open source software and the cloud. In his spare time he enjoys answering tricky questions on Stack Overflow where he’s built up a reputation as a JavaScript expert.</p>"
     }
   ]
 }
