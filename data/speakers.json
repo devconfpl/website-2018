@@ -119,6 +119,46 @@
       },
       "tag": "james-allardice",
       "description": "<p>James is a senior engineer with several years experience building single page web apps with Node.js and a variety of front-end technologies. He’s the co-founder of orangejellyfish, a software consultancy based in London with a passion for JavaScript, open source software and the cloud. In his spare time he enjoys answering tricky questions on Stack Overflow where he’s built up a reputation as a JavaScript expert.</p>"
+    },
+    {
+      "name": "Michał Jankowski",
+      "company": "Objectivity",
+      "social": {
+        "twitter": "JankowskiMichal",
+        "linkedin": "michalmjankowski"
+      },
+      "tag": "michal-jankowski",
+      "description": "<p>Michał Jankowski - an architect, designer and sometimes a developer. He began programming over twenty years ago starting from Basic and Assembler for 8-bit computers. For over ten years, he has been creating applications working on a .net platform for the world’s largest companies. Currently, he is specialising in the development of web applications and Azure environment.</p><p>A great enthusiast of software craftsmanship, unit testing, software design and other topics related to software development.</p><p>In his free time, when he is not playing with the code, he likes travelling, photography and writing a technical blog (<a href=\"http://www.jankowskimichal.pl/\">http://www.jankowskimichal.pl/</a>).</p>"
+    },
+    {
+      "name": "Michał Łusiak",
+      "company": "tretton37",
+      "social": {
+        "twitter": "mlusiak",
+        "linkedin": "michal-lusiak"
+      },
+      "tag": "michal-lusiak",
+      "description": "<p>Michał is software developer from Poland, currently living in Sweden. On the daily job, he works mostly with backends for web and mobile applications. He has worked with many programming stacks but currently focuses mostly on .NET. Big fan of functional languages. Recently interested in machine learning and data science. Aviation geek, skier and wheels of fury.</p>"
+    },
+    {
+      "name": "Piotr Stapp",
+      "company": "FinAi",
+      "social": {
+        "twitter": "ptrstpp950",
+        "linkedin": "piotrstapp"
+      },
+      "tag": "piotr-stapp",
+      "description": "<p>I call myself a developer, an engineer, a craftsman, a designer and a biker. I’m a user of every useful technology. I believe in people not papers. I’m adept at DevOps and automation. I love web technologies Formerly IT Expert at mBank, now IT Architect in FinAi. I’m also Microsoft MVP. My blog: <a href=\"https://stapp.space\">https://stapp.space</a></p>"
+    },
+    {
+      "name": "Richard Lewington",
+      "company": "Plain Concepts",
+      "social": {
+        "twitter": "plainconcepts",
+        "linkedin": "richardlewington"
+      },
+      "tag": "richard-lewington",
+      "description": "<p>RICHARD LEWINGTON CELTA, IDLTM, Dip TEFL, Microsoft MIE (Certified Microsoft Innovative Educator)</p><p>Richard Lewington is a Business Development Manager at Plain Concepts (Microsoft’s 1st Mixed Reality Partner in Spain), English Speaking Examiner & Exam Invigilator at the University of Cambridge’s English Assessment department and Teacher Trainer at The TEFL Academy.</p><p>He has gained over 10 years of experience teaching in a number of large corporations including Iberia, Clifford Chance & Barclays Bank, as well as from consulting for governmental institutions such as the Ministry of Industry, Tourism and Commerce, Ministry of Health and Social Policy & the Ministry of Science and Innovation in Spain. He is also the author of the award-winning book ‘Stop Speaking Spanglish’.</p><p>His other achievements include participating in a Guinness World Record attempt for cake eating in The Netherlands, managing a nightclub in The Canary Islands and writing commercial scripts for Antonio Banderas!</p><p>Richard is passionate about educational technology and is an advocate for its increased development and use across the world. As such, he has gained over 30,000 followers on LinkedIn.</p>"
     }
   ]
 }
