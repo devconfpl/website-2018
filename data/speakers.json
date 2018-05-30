@@ -148,7 +148,7 @@
         "linkedin": "piotrstapp"
       },
       "tag": "piotr-stapp",
-      "description": "<p>I call myself a developer, an engineer, a craftsman, a designer and a biker. I’m a user of every useful technology. I believe in people not papers. I’m adept at DevOps and automation. I love web technologies Formerly IT Expert at mBank, now IT Architect in FinAi. I’m also Microsoft MVP. My blog: <a href=\"https://stapp.space\">https://stapp.space</a></p>"
+      "description": "<p>I call myself a developer, an engineer, a craftsman, a designer and a biker. I’m a user of every useful technology. I believe in people not papers. I’m adept at DevOps and automation. I love web technologies Formerly IT Expert at mBank, now IT Architect in FinAi. I’m also Microsoft MVP. My blog: <a href=\"https://stapp.space\">https://stapp.space</a>.</p>"
     },
     {
       "name": "Richard Lewington",
@@ -159,6 +159,85 @@
       },
       "tag": "richard-lewington",
       "description": "<p>CELTA, IDLTM, Dip TEFL, Microsoft MIE (Certified Microsoft Innovative Educator)</p><p>Richard Lewington is a Marketing Project Manager at Microsoft Mixed Reality partner Plain Concepts, Examiner & Invigilator at the University of Cambridge's assessment department & Teacher Trainer at The TEFL Academy in Madrid, Spain.</p><p>He has gained over 10 years experience teaching in a number of large corporations including Iberia, Clifford Chance & Barclays Bank, as well as through consulting for governmental institutions such as the Spanish Ministry of Industry, Tourism and Commerce, Ministry of Health and Social Policy & the Ministry of Science and Innovation.  He is also the author of the award-winning book ‘Stop Speaking Spanglish’.</p><p>His other achievements include participating in a Guinness World Record for cake eating in The Netherlands, managing a nightclub in The Canary Islands, and writing commercials featuring Antonio Banderas!</p><p>Richard is passionate about educational technology and is an advocate for its increased development and use across the world.  As such, he has gained over 30,000 followers on LinkedIn.</p>"
+    },
+    {
+      "name": "Sander Hoogendoorn",
+      "company": "Independent Consultant",
+      "social": {
+        "twitter": "aahoogendoorn",
+        "linkedin": "aahoogendoorn"
+      },
+      "tag": "sander-hoogendoorn",
+      "description": "<p>Sander is a dad, an independent consultant, software architect, programmer, speaker and writer. He coaches teams and helps improve architectures and code. He’s written books on agile, UML, and web tools, and published many articles. Sander is an inspiring (keynote) speaker at international conferences on topics such as agile, Scrum, continuous delivery, software estimation, agile requirements, modeling, patterns, software architectures, microservices, and web, Java and .NET development.</p>"
+    },
+    {
+      "name": "Sebastian Gębski",
+      "company": "Shedul.com",
+      "social": {
+        "twitter": "liveweird",
+        "linkedin": "sebastian-gebski-2687bb"
+      },
+      "tag": "sebastian-gebski",
+      "description": "<p>My name’s Sebastian Gębski. I think of myself as an Agilista (following the Kanban path); hardened in fire of several IT projects, mainly for large banks and insurance companies; polyglot architect, not afraid of putting his own hands on code if needed; zealot of Domain Driven Design. My job is to make things happen where others have failed, using common sense (that comes first), people (as this is not an individual sport) and technology (that usually is inevitable).</p>"
+    },
+    {
+      "name": "Steven Schkolne",
+      "company": "The Vain Company",
+      "social": {
+        "twitter": "schkolne",
+        "linkedin": "sschkolne"
+      },
+      "tag": "steven-schkolne",
+      "description": "<p>Steven Schkolne is one of the world’s foremost experts in interface design. For his PhD at Caltech he built the world's first full body VR painting software, laying the foundation for many of today’s VR builders such as TiltBrush and Quill. Today he continues to forge new paths with his innovation agency The Vain Company, which has done everything from building AR apps for kids in partnership with Crayola, to making the world's first robots react movie trailer for Fox, to building a life saving VR training application for utility workers. He puts his tireless exploration of the past, present, and future of computation, into frequent Medium articles, including a recent series on machine consciousness.</p>"
+    },
+    {
+      "name": "Szymon Warda",
+      "company": "Meniga",
+      "social": {
+        "twitter": "maklipsa",
+        "linkedin": "szymonwarda"
+      },
+      "tag": "szymon-warda",
+      "description": "<p>With .NET from version 1.1 and with web development from the time when IE6 was the “better” browser. Working with machine learning, cloud, and big data by day. By night a developer of cookit.pl- a pet project processing hundred of gigabytes of data with whatever suits the problem best (Graph databases/ML/C#/F#). Technology enthusiast, Neo4j ambassador, speaker, and a blogger at <a href=\"https://indexoutofrange.com/\">IndexOutOfRange.com</a>.</p>"
+    },
+    {
+      "name": "Linda Rising",
+      "company": "Independent Consultant",
+      "social": {
+        "twitter": "risinglinda",
+        "linkedin": "lindarising"
+      },
+      "tag": "linda-rising",
+      "description": "<p>Linda Rising has a Ph.D. from Arizona State University in the field of object-based design metrics and a background that includes university teaching and industry work in telecommunications, avionics, and strategic weapons systems.</p><p>An internationally known presenter on topics related to patterns, retrospectives, agile development approaches, and the change process, Linda is the author of numerous articles and five books: Design Patterns in Communications Software (SIGS Reference Library), The Pattern Almanac 2000, The Patterns Handbook: Techniques, Strategies, and Applications (SIGS Reference Library), Fearless Change: Patterns for Introducing New Ideas, and More Fearless Change: Strategies for Making Your Ideas Happen.</p>"
+    },
+    {
+      "name": "Tomasz Pęczek",
+      "company": "Oracle",
+      "social": {
+        "twitter": "tpeczek",
+        "linkedin": "tpeczek"
+      },
+      "tag": "tomasz-peczek",
+      "description": "<p>Developer, <a href=\"http://www.tpeczek.com/\">blogger</a>, speaker and <a href=\"https://github.com/tpeczek\">open source author/contributor</a> focused on Web Development in context of ASP.NET (Core) platform. For more than 10 years he has been creating web applications for health care, banking or e-learning industries. Currently he works in Oracle as an applications architect where his main areas of responsibility are web applications performance and security. Microsoft MVP in Visual Studio and Development Technologies category.</p>"
+    },
+    {
+      "name": "Vladimir Dejanovic",
+      "company": "",
+      "social": {
+        "twitter": "VladimirD_42",
+        "linkedin": "vladimir-dejanovic-885ba74"
+      },
+      "tag": "vladimir-dejanovic",
+      "description": "<p>Founder and leader of AmsterdamJUG.</p><p>Software Architect ,Team Lead and IT Consultant working in industry since 2006 developing high performance software in multiple programming languages and technologies from desktop to mobile and web with high load traffic.</p><p>Enjoining developing software mostly in Java and JavaScript, however also wrote fair share of code in Scala, C++, C, PHP, Go, Objective-C, Python, R, Lisp and many others.</p><p>Always interested in cool new stuff, Free and Open Source software.</p><p>Like giving talks at conferences like JavaOne 2016, JavaOne 2017, Devoxx BE, Devoxx US, Devoxx PL, Devoxx MA, Devoxx FR, JavaLand, Java Day Istanbul, Java Day Minks, Voxxed Days Bristol, Voxxed Days Bucharest, Voxxed Days Belgrade, Voxxed Days Cluj-Napoca, GeeCON and others.</p>"
+    },
+    {
+      "name": "Zuzanna Pacholczyk",
+      "company": "Capgemini",
+      "social": {
+        "linkedin": "pacholczyk"
+      },
+      "tag": "zuzanna-pacholczyk",
+      "description": "<p>I am a senior software engineer at Capgemini in Wrocław. Currently working in a scrum team where I am a full stack dev playing with in Java and Angular technologies. I'm passionate about sharing my IT knowledge mostly as Carrots Foundation and company's Craftmanship community member. I'm a coorganizer and trainer during local workshops. Beside programming I take photos, do yoga and experiment in the kitchen (mostly successful :))</p>"
     }
   ]
 }
