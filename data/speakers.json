@@ -238,6 +238,46 @@
       },
       "tag": "zuzanna-pacholczyk",
       "description": "<p>I am a senior software engineer at Capgemini in Wrocław. Currently working in a scrum team where I am a full stack dev playing with in Java and Angular technologies. I'm passionate about sharing my IT knowledge mostly as Carrots Foundation and company's Craftmanship community member. I'm a coorganizer and trainer during local workshops. Beside programming I take photos, do yoga and experiment in the kitchen (mostly successful :))</p>"
+    },
+    {
+      "name": "James Birnie",
+      "company": "ThoughtWorks",
+      "social": {
+        "twitter": "RunningChairJB",
+        "linkedin": "jameswrbirnie"
+      },
+      "tag": "james-birnie",
+      "description": "<p>I’ve been working on commercial software since the late 1990s. Back then TDD was something you studied but never did, pipelines were something that carried oil and agile and lean were words used to describe gymnasts. In 2006 I joined a startup and worked there for 9 years which included at least 3 major rewrites, cloud migrations and an Agile transformation. In 2015 I joined ThoughtWorks and I’ve since worked on several major projects on several very different technology stacks. Every day in my job I see things surprise me, shock me, disappoint me and sometimes delight me!</p>"
+    },
+    {
+      "name": "Jakub Gutkowski",
+      "company": "Independent Consultant",
+      "social": {
+        "twitter": "gutek",
+        "linkedin": "jakubg"
+      },
+      "tag": "jakub-gutkowski",
+      "description": "<p>Dad, husband, blogger, developer, geek. Founder of devWarsztaty – free workshops, for anyone who is willing to learn and practice software craftsmanship. Creator of first polish .NET Blogs agregator – .NET Blogs PL. Loves to play with novelties, learn new languages and libraries, avid conference attender, passionate about meeting new people, always willing to help.</p><p>Microsoft MVP.</p><p>Truly believes, that what he does, changes the world and helps others.</p>"
+    },
+    {
+      "name": "Tugberk Ugurlu",
+      "company": "Redgate",
+      "social": {
+        "twitter": "tourismgeek",
+        "linkedin": "tugberk"
+      },
+      "tag": "tugberk-ugurlu",
+      "description": "<p>I'm a self-motivated software guy who craves to create great software products and build effective development teams with 9 years of software development experience. I currently work as a Technical Lead at Redgate by leading a lean-minded product development team and I'm also a Microsoft MVP on development technologies.</p>"
+    },
+    {
+      "name": "Spencer Schneidenbach",
+      "company": "Aviron Software",
+      "social": {
+        "twitter": "schneidenbach",
+        "linkedin": "sschneidenbach"
+      },
+      "tag": "spencer-schneidenbach",
+      "description": "<p>Spencer Schneidenbach is a web developer, Microsoft MVP, speaker, consultant, and blogger in the St. Louis area, focusing on JavaScript/TypeScript, C#, React/Redux, and ASP.NET. He is the owner of Aviron Software, a consultancy specializing in cloud- and web-based software solutions.</p><p>Full speaking history and blog can be found at <a href=\"http://schneids.net\">http://schneids.net</a>.</p>"
     }
   ]
 }
