@@ -173,35 +173,35 @@
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "James Allardice",
+                "tag": "james-allardice"
               },
-              "time": "",
+              "time": "13:40",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Do You Want to Build a Blockchain?",
+                "description": "Blockchain. Is there likely to be a bigger buzzword over the next few years? As more and more cryptocurrencies make their debuts, the underlying technology is starting to mature and businesses from a wide range of industries are starting to take note.<br/><br/>This talk will explore some of the key concepts from a JavaScript point of view. We'll start by putting together a simple blockchain, progress to adding peer-to-peer networking to allow the nodes in our network to communicate, proof of work so that those nodes can trust the data they receive, and finally a transaction system to put that blockchain to use.<br/><br/>You'll go away with a solid understanding of core blockchain and cryptocurrency concepts that should give you a great head start as we head into a landscape increasingly dominated by such technologies."
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Agnieszka Jach, Jakub Gutkowski, Piotr Stapp",
+                "tag": "lightning-talks"
               },
-              "time": "",
+              "time": "14:50",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Lightning Talks",
+                "description": "TODO"
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Marek Stój",
+                "tag": "marek-stoj"
               },
-              "time": "",
+              "time": "16:10",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Sitting Considered Deadly",
+                "description": "Prolonged sitting is linked to myriad health problems and you can’t completely mitigate the risks by just exercising in leisure time. The solution to this problem is simple but not easy to implement. This talk will show you the first step to getting out of your chair and fighting for your health."
               }
             }
           ]
@@ -217,79 +217,79 @@
           "slots": [
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Linda Rising",
+                "tag": "linda-rising"
               },
-              "time": "",
+              "time": "9:30",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Thinking Fast and Slow",
+                "description": "When Daniel Kahneman won the Nobel Prize for developing a new model of how the brain works, it changed how we think about thinking. If you haven't had time to read Kahneman's book 'Thinking Fast and Slow,' or even if you have, Linda will 'translate' the model and what it means for us in working better. We know that our jobs involve thinking, problem-solving, and decision-making. We all want to do a better job of thinking fast and slow. Linda will help you get started with that."
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Damien Pacaud",
+                "tag": "damien-pacaud"
               },
-              "time": "",
+              "time": "10:40",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Tools and Team for 20 Billion PageView/Month",
+                "description": "How we scaled our business to more than 1.2B Unique Visitor monthly, from an infrastructure point of view. Tips and tricks about the tools that we use extensively (AWS, GCP, Terraform, Chef), the challenges of multi-region presence and the human side of things (team size, location, on-call)."
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Bernd Rücker",
+                "tag": "bernd-rucker"
               },
-              "time": "",
+              "time": "11:50",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Complex Event Flows in Distributed Systems",
+                "description": "The world is moving towards microservices, DDD, event-driven, reactive etc.. We saw quite some projects going down that route, but making some severe mistakes on the way. This talk goes over the war stories and make certain concepts tangible in order to allow attendees to avoid these pains."
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "William Brander",
+                "tag": "william-brander"
               },
-              "time": "",
+              "time": "13:50",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Microfrontends and UI Composition - a Code-First Dive",
+                "description": "As developers we spend a lot of time structuring our systems just right. We make sure we select the right patterns, use the right combination of acronyms (CQRS + DDD + ES), and do all the right devops so that we can scale up/out/elastically. This adherence to best practices seems to fall apart at the front end though. We have separation on the back end, but on the front end this all needs to come together. How do we stop it from turning into a mess of spaghetti code? How do we prevent simple actions from triggering hundreds of web requests? Join William as he builds a .NET Core Composite UI using React from scratch."
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Adam Ralph",
+                "tag": "adam-ralph"
               },
-              "time": "",
+              "time": "15:00",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Finding Your Service Boundaries - a Practical Guide",
+                "description": "We know it’s useful to split up complex systems. We’ve seen the benefits of modular deployment of microservices. Dealing with only one piece of code at a time eases our cognitive load. But how do we know where to draw the service boundaries? In complex business domains, it’s often difficult to know where to start. When we get our boundaries wrong, the clocks starts ticking. Before long, we hear ourselves say “it would be easier to re-write it”.<br/><br/>Join Adam for practical advice on discovering the hidden boundaries in your systems. Help tease out the natural separation of concerns in a sample business domain. During 20 years of developing complex systems, Adam has had plenty of time to get things wrong. Learn to avoid the common pitfalls that can lead us down the path to “the big re-write”."
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Vladimir Dejanovic",
+                "tag": "vladimir-dejanovic"
               },
-              "time": "",
+              "time": "16:10",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "REST API vs gRPC, Which One Should You Use in Breaking a Monolith",
+                "description": "You heard of “new thing” called gRPC and promises that it will solve all issues for you, so now you are not sure if you should use it for breaking up your monolith to Microservices. If it is good for Google it should be good for you also right?On the other hand, you have been using REST API’s for some time now, at least as a consumer, so maybe this would be better approach in Microservices waters, or would it?<br/><br/>Which one to chose and which one will fit your use case better?<br/><br/>Join me in this talk were I will try to explain both approaches, good and bad. I will give some points and tips, which will help you in understanding better which one will be better for you. By doing this I will also share some best practices for both approaches."
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "TBA",
+                "tag": "tba"
               },
-              "time": "",
+              "time": "17:20",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "TBA",
+                "description": "TBA"
               }
             }
           ]
@@ -299,57 +299,57 @@
           "slots": [
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "TBA",
+                "tag": "tba"
               },
-              "time": "",
+              "time": "10:40",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "TBA",
+                "description": "TBA"
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Heather Downing",
+                "tag": "heather-downing"
               },
-              "time": "",
+              "time": "11:50",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Google vs Alexa: Battle of the Bots",
+                "description": "Why choose? Support them all! This code-centric talk demonstrates the approach you need to centralize your app logic and handle multiple voice interface ecosystems at once. We will walk through code examples for Alexa and Google Assistant integration, discovering the pros and cons of each in detail."
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Zuzanna Pacholczyk",
+                "tag": "zuzanna-pacholczyk"
               },
-              "time": "",
+              "time": "13:50",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "How Children Taught Me Joy of Programming While Teaching Them Coding",
+                "description": "Teaching others is a great way of learning new skills. That knows almost everyone. But still we do not use this opportunity. We don't have time for it, we are afraid of speaking in public or we do not feel good enough to teach others. So how about starting with teaching children? You teach them basics, so you definitely have the skills needed and this is an empathic audience so no worries you will fail. I've tried this and now I would like to tell you why it is so good! And what experiences I gained which I wouldn't get teaching adults. And, of course, how to do this and how it looks like."
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Dave Aronson",
+                "tag": "dave-aronson"
               },
-              "time": "",
+              "time": "15:00",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "ACRUMEN: The Six Key Aspects of Software Quality",
+                "description": "Do you like writing bad software? Of course not! Learn about ACRUMEN, an acronym for the six key aspects of software quality in priority order, and how to achieve them. These concepts are timeless and technology-agnostic, useful with languages from the dinosaur days to tomorrow and beyond."
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Kim van Wilgen",
+                "tag": "kim-van-wilgen"
               },
-              "time": "",
+              "time": "16:10",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "TBA",
+                "description": "TBA"
               }
             }
           ]
@@ -359,57 +359,57 @@
           "slots": [
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Markus Winand",
+                "tag": "markus-winand"
               },
-              "time": "",
+              "time": "10:40",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Modern SQL: Evolution of a Dinosaur",
+                "description": "SQL has evolved considerably in recent years. The purely relational dogma was already abandoned in 1999. What followed was continuous extension through the incorporation of handy features to address problems that are hard to solve with relational algebra. Today, SQL is Turing complete, can process graphs, has semantic understanding of XML and JSON, is able to automatically keep historic versions, can analyze time series using regular expressions and much more.<br/><br/>This session walks through the SQL standards from 1999 to the current version of 2016. It demonstrates some selected features on the basis of common problems and compares the traditional SQL-92 solution to the modern SQL approach. Of course, the presentation also shows how long these features are supported by various databases so that you immediately know whether the shown solutions work in your environment or not.<br/><br/>In this session, developers and software architects of all levels gain a better understanding where SQL is today so that they are able to make more educated decisions. A lot has happened since SQL-92!"
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Michał Łusiak",
+                "tag": "michal-lusiak"
               },
-              "time": "",
+              "time": "11:50",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "N Ways to Do Machine Learning on .NET",
+                "description": "Machine Learning is taking over the world. But when you start looking at tutorials, you see mostly intros in Keras, Tensorflow and other Python frameworks. In this talk, I’ll show you few ways how to build and run ML models using .NET - both handcrafted and using fully fledged frameworks."
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Spencer Schneidenbach",
+                "tag": "spencer-schneidenbach"
               },
-              "time": "",
+              "time": "13:50",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Using Immutable Data Structures in C# and .NET",
+                "description": "TBD"
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Anna Lee Anda",
+                "tag": "anna-lee-anda"
               },
-              "time": "",
+              "time": "15:00",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Empathy for Everyone ",
+                "description": "A good understanding of users and their problems is relegated to a designer or PM. By everyone having a basic understanding of their user it’s easier to work towards a common goal. It doesn’t have to be a big undertaking it could be something that is done occasionally for the benefit of the team."
               }
             },
             {
               "speaker": {
-                "name": "",
-                "tag": ""
+                "name": "Sebastian Gębski",
+                "tag": "sebastian-gebski"
               },
-              "time": "",
+              "time": "16:10",
               "lecture": {
-                "title": "",
-                "description": ""
+                "title": "Code Foresting: Automating Architecture Governance for .NET Teams",
+                "description": "Techniques like Continuous Inspection & Convention Testing can help a lot with maintaining & governance of complex architectures in big teams. This is a case study of applying these concepts for .NET-based system (brownfield), using tools like NDepend, Roslyn, DocFx, Cake & PowerShell."
               }
             }
           ]
