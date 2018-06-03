@@ -7,5 +7,62 @@
 
     <br />
     <br />
+
+    <div class="row schedule">
+
+      <ul class="nav nav-schedule">
+        <% data.schedule.items.sort_by(&:name).each_with_index do |s, idx| %>
+          <% content_tag :li, :class => (idx == 0 ? "active" : "") do %>
+            <a href="#schedule2_day<%= idx + 1 %>" data-toggle="tab">
+              <h5 class="highlight"><%= s.name %></h5>
+              <p class="text-alt"><%= s.date %></p>
+            </a>
+          <% end %>
+        <% end %>
+      </ul>
+
+      <div class="tab-content">
+        <% data.schedule.items.sort_by(&:name).each_with_index do |s, idx| %>
+          <div id="schedule2_day<%= idx + 1 %>" class="tab-pane fade in <%= idx == 0 ? 'active' : '' %>">
+            <ul class="nav nav-schedule">
+              <% s.rooms.sort_by(&:name).each_with_index do |r, ridx| %>
+                <% content_tag :li, :class => (ridx == 0 ? "active" : "") do %>
+                  <a href="#schedule2_day<%= idx + 1 %>_auditorium<%= ridx + 1 %>" data-toggle="tab"><%= r.name %></a>
+                <% end %>
+              <% end %>
+            </ul>
+
+            <div class="tab-content tab-content-schedule">
+              <% s.rooms.sort_by(&:name).each_with_index do |r, ridx| %>
+                <div id="schedule2_day<%= idx + 1 %>_auditorium<%= ridx + 1 %>" class="tab-pane fade in <%= ridx == 0 ? 'active' : '' %>">
+                  <div class="panel-group" id="schedule2_day<%= idx + 1 %>_auditorium<%= ridx + 1 %>_timeline">
+                    <% r.slots.each_with_index do |slot, sidx| %>
+                      <div class="panel schedule-item">
+                        <div class="lecture-icon-wrapper">
+                          <%= tag :img, :src => '/images/speakers/' + slot.speaker.tag + '.png', :alt => slot.speaker.name, :class => 'img-responsive' %>
+                        </div>
+
+                        <a data-toggle="collapse" data-parent="#schedule2_day<%= idx + 1 %>_auditorium<%= ridx + 1 %>_timeline" href="#schedule2_day<%= idx + 1 %>_auditorium<%= ridx + 1 %>_time<%= sidx + 1 %>" class="schedule-item-toggle">
+                          <strong class="time highlight"><span class="icon icon-office-24"></span><%= slot.time %></strong>
+    											<h6 class="title"><%= slot.lecture.title %><i class="icon icon-arrows-06"></i></h6>
+                        </a>
+
+                        <div id="schedule2_day<%= idx + 1 %>_auditorium<%= ridx + 1 %>_time<%= sidx + 1 %>" class="panel-collapse collapse schedule-item-body">
+                          <article>
+    												<p class="description"><%= slot.lecture.description %></p>
+    												<strong class="highlight speaker-name"><%= slot.speaker.name %></strong>
+    											</article>
+                        </div>
+                      </div>
+                    <% end %>
+                  </div>
+                </div>
+              <% end %>
+            </div>
+          </div>
+        <% end %>
+      </div>
+
+    </div>
   </div>
 </section>
