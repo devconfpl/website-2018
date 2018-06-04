@@ -278,6 +278,15 @@
       },
       "tag": "spencer-schneidenbach",
       "description": "<p>Spencer Schneidenbach is a web developer, Microsoft MVP, speaker, consultant, and blogger in the St. Louis area, focusing on JavaScript/TypeScript, C#, React/Redux, and ASP.NET. He is the owner of Aviron Software, a consultancy specializing in cloud- and web-based software solutions.</p><p>Full speaking history and blog can be found at <a href=\"http://schneids.net\">http://schneids.net</a>.</p>"
+    },
+    {
+      "name": "Rob Ashton",
+      "company": "Independent Consultant",
+      "social": {
+        "twitter": "RobAshton"
+      },
+      "tag": "rob-ashton",
+      "description": "<p></p>"
     }
   ]
 }
