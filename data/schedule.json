@@ -348,8 +348,8 @@
               },
               "time": "16:10",
               "lecture": {
-                "title": "TBA",
-                "description": "TBA"
+                "title": "Continuously Delivering Continuous Delivery",
+                "description": "With agile principles and practices reaching maturity, in many organizations the focus for the coming years will be on the next steps. Beyond agile. In fast pace organizations are adopting agile, DevOps, continuous delivery and new architectures such as microservices. Often all at once. Although from a perspective of similarities between these paradigms this makes sense, this also requires for increased collaboration between business, development and operations. During this session, Kim van Wilgen, head of software development at the Dutch software development company ANVA, will give practical insights on the process of transformation to continuous delivery, with real-life examples from her experiences. She&#39;ll share the main lessons learned and the mess-ups the preceded them. How can organizations deal with the complexity of simultaneously changing architectures, ways of working, technology, and foremost culture? How can we still deliver software during the transition? How can we deliver continuous delivery?"
               }
             }
           ]
