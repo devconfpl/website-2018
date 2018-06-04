@@ -307,6 +307,26 @@
       },
       "tag": "lukasz-dziekan",
       "description": "<p>Experienced technology leader combining deep and practical understanding of technology, machine learning and AI with experience in big data architectures, cloud and expert in data processing, data geek by heart. A manager that delivers expected (and sometimes unexpected) results, understands the client needs and wants his team to operate as efficiently as possible. Data science and applied Machine learning expert and leader. Data guy that loves slicing and dicing, building predictive models (that actually work) and managing analytics.</p>"
+    },
+    {
+      "name": "Kim van Wilgen",
+      "company": "ANVA",
+      "social": {
+        "twitter": "kimvanwilgen",
+        "linkedin": "kimvanwilgen"
+      },
+      "tag": "kim-van-wilgen",
+      "description": "<p></p>"
+    },
+    {
+      "name": "Anna Lee Anda",
+      "company": "Zendesk",
+      "social": {
+        "twitter": "annaleeanda",
+        "linkedin": "annaleeanda"
+      },
+      "tag": "anna-lee-anda",
+      "description": "<p>Anna Lee Anda is a User Experience Researcher based in Singapore. Currently she is working for Zendesk, a global SaaS company which builds software for better customer relationships. She has experience working in the technology and financial industries. Anna is passionate about educating designers and product development teams about the benefits of research and taking a pragmatic approach to delivering successful results.</p>"
     }
   ]
 }
