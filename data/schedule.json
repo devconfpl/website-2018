@@ -1,0 +1,420 @@
+{
+  "items": [
+    {
+      "name": "Conference Day 1",
+      "date": "27 September 2018",
+      "rooms": [
+        {
+          "name": "Room 1",
+          "slots": [
+            {
+              "speaker": {
+                "name": "Sander Hoogendoorn",
+                "tag": "sander-hoogendoorn"
+              },
+              "time": "9:10",
+              "lecture": {
+                "title": "It's a Small World After All",
+                "description": "Our world changes at increasing speed. Things that weren’t possible 5 years ago come into reach. Incumbents need to adept to match start-ups. We evolve towards smaller, faster, shorter. Smaller teams or even micro-teams, flat organizations, no management, even shorter cycles, smaller components. During this inspiring talk Sander discusses Cynefin, how development goes wrong, how to go beyond Scrum, why self-organization is hard, why continuous delivery allows you to stop doing projects."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Philipp Krenn",
+                "tag": "philipp-krenn"
+              },
+              "time": "10:30",
+              "lecture": {
+                "title": "Se7en Deployment Sins",
+                "description": "Do you have something to confess? Or are you still in denial — knowing that you’re doing something wrong, but you cannot say for sure what it is? In this talk, we’ll go through our deployment sins and how to avoid them."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Julie Matviyuk",
+                "tag": "julie-matviyuk"
+              },
+              "time": "11:40",
+              "lecture": {
+                "title": "Friendly Fire: How Security Software Messes Up",
+                "description": "Have you ever wondered why, in the era of Deep Learning and hover-boards*, security software can still mess up? Why is it so challenging to distinguish clean files from malware? How can you make sure your software won’t be blasted off customers’ machines? <br/><br/> *(they don’t really hover)"
+              }
+            },
+            {
+              "speaker": {
+                "name": "Dominick Baier",
+                "tag": "dominick-baier"
+              },
+              "time": "13:40",
+              "lecture": {
+                "title": "Authorization for Modern Applications",
+                "description": "Modern applications are multi-client/platform distributed applications powered by (micro) services. Once you have solved the identity problem, you will inevitably deal with the question “what is this user allowed to do?”.<br/><br/>It is very tempting to blur the lines between identity, authorization and business logic – but this will lead to problems down the line. As part of our work for PolicyServer (https://policyserver.io) we have developed a reference architecture that brings together OpenID Connect, OAuth 2.0, tokens and claims in a healthy way that allows for future growth and separation of concerns. Learn how!"
+              }
+            },
+            {
+              "speaker": {
+                "name": "Rob Ashton",
+                "tag": "rob-ashton"
+              },
+              "time": "14:50",
+              "lecture": {
+                "title": "Zero Support in Production",
+                "description": "For the last several years, I have been working in a very small team, both building and deploying/supporting bespoke products that power upwards of half a million live video events a year, as well as forming the backbone of various television services across the UK. For some of our customers, it has been half a decade since we received a support call and indeed it is a virtual non-happening that anybody has to get out of bed to solve a problem in production. A lot of this results directly from our use of Erlang+OTP, and there are then wider patterns that have arisen across our code-bases and even the manner in which we provide support to our clients. <br/><br/>In this session, we will be using examples from our real-world projects to demonstrate how we build, deploy, and then support hundreds of services and hundreds of thousand of events a year in across both the cloud and our on-premise as well as also covering how our software stack ensures that on a bad day, our services carry on delivering content even when servers are catching fire or somebody has spilled coffee on the datacentre power supply."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Richard Lewington",
+                "tag": "richard-lewington"
+              },
+              "time": "16:10",
+              "lecture": {
+                "title": "Augmenting the Reality of Education for the 21st Century",
+                "description": "In fewer than 50 years we have seen massive changes in the classroom. From chalkboards to videotapes, the introduction of computers to interactive whiteboards, and now the implementation of Augmented Reality and Artificial Intelligence. But how much learning value can AR & AI actually offer students beyond the “WOW factor”? Are we just rehashing old teaching methodologies and redressing them up with the latest technology? Or should we be exploiting AR & AI’s potential as a tool rather than just another medium? Additionally, by integrating 21st-century skills and gamification into our design thinking, we can push the potential of educational applications to the limits! Richard Lewington explores these topics and discusses what we should be doing about them."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Steven Schkolne",
+                "tag": "steven-schkolne"
+              },
+              "time": "17:20",
+              "lecture": {
+                "title": "A New Oracle for Predicting Future Technology",
+                "description": "Everyone wants to know what’s coming next. Science fiction, our trusted oracle of future technology, has failed us again and again. So what can we use? In this talk I present a new model for looking at the emergence of killer technologies. I’ll take you on a whirlwind tour from the earliest history of electronic computing to the present. We’ll see how some factors arise, again and again, to shape machine evolution. I will describe how these forces shaped the recent emergence of mobile computing and virtual reality. Then I will project forward, applying my model to the speculative technologies of today (AR, blockchain, etc). Using this model, we in the tech world can apply our efforts to the true new future, as opposed to the dim, regressive fantasies of sci-fi."
+              }
+            }
+          ]
+        },
+        {
+          "name": "Room 2",
+          "slots": [
+            {
+              "speaker": {
+                "name": "Szymon Warda",
+                "tag": "szymon-warda"
+              },
+              "time": "10:30",
+              "lecture": {
+                "title": "Azure for Less Than One Dollar a Day",
+                "description": "Cloud is a combination of extremes and lack of limits. In seconds, we can solve (almost) any problem by just throwing more CPUs, GPUs, and RAM at it. There is only the matter of cost. This talk will talk about money and how to spend it wisely in the cloud. Cloud architecture done good is cheap."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Gunnar Peipman",
+                "tag": "gunnar-peipman"
+              },
+              "time": "11:40",
+              "lecture": {
+                "title": "Brewing Eisbock Using Windows IoT Core and Azure Services",
+                "description": "The core of presentation is my open-source solution (https://github.com/gpeipman/TemperatureStation) that I use to monitor fermenting and ice-distilling temperatures when brewing at home. The presentation focuses on technical and mathematical side of solution and gives very good idea about how to start building serious IoT solutions on Windows platform and how to back these with Azure and Office 365 services to save time and money. Presentation introduces briefly the some problems home brewers face when brewing more complex beers. After stating problems the presentation goes through brief analyzis and then focuses on how to build the solution. Presentation ends with live demo that emulates beer freezing process that is monitored by different apps, programs and web pages."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Piotr Stapp, Łukasz Dziekan",
+                "tag": "piotr-stapp-lukasz-dziekan"
+              },
+              "time": "13:40",
+              "lecture": {
+                "title": "Cloud is Like Alcohol",
+                "description": "This is our story. We get the A-Team and we give them what they asked. First days were awesome. Fascination, a lot of new ideas, simple PoC and bunch of blog posts. But to be fair we knew nothing about the cloud. 12 months passed and we have learned a lot, really a lot. And today we would like to share our knowledge and experience. Without bullshit and marketing stuff. We will show you what worked and more importantly what didn’t. Buzzwords (Docker, k8s, serverless, PaaS, DevOps, magic&tricks, Oh my God!, F…K) live fast and die young. In our session, we will tell you why a cloud is like alcohol. When it is rather a cheap wine and when it is the best whiskey in the world. In FinAi we tasted them all and we know how to prevent a hangover."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Tomasz Pęczek",
+                "tag": "tomasz-peczek"
+              },
+              "time": "14:50",
+              "lecture": {
+                "title": "With Great Power Comes Great Responsibility - Using HTTP/2 Responsibly ",
+                "description": "A lot has been written about new features in HTTP/2 and performance improvements it’s bringing, so you have probably read some of it (don’t worry if you didn’t, there will be a brief recap). But we all know there is nothing for free in IT (and especially Web) world. There are no “no brainers” or “silver bullets”. This talk focuses on what to consider to get the most out of HTTP/2 without hurting yourself or your users in the process."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Ola Kunysz",
+                "tag": "ola-kunysz"
+              },
+              "time": "16:10",
+              "lecture": {
+                "title": "Client Says Your Awesome Web App Works Slowly. Now What? ",
+                "description": "You did great job finishing this web app on time and budget. Design patterns, good code coverage, cutting edge frameworks and best CI ever. It goes to production and boom, clients complain it's too slow. They don't really care, if it's best engineering ever, if each view loads 2 seconds. My presentation will give you hints on how to look for bottlenecks. I will also share simple tricks to make the app work faster, or at least seem to work faster."
+              }
+            }
+          ]
+        },
+        {
+          "name": "Room 3",
+          "slots": [
+            {
+              "speaker": {
+                "name": "James Birnie",
+                "tag": "james-birnie"
+              },
+              "time": "10:30",
+              "lecture": {
+                "title": "Is Quantum Computing Really a Thing?",
+                "description": "Quantum computing has existed as a theoretical concept for some time. I recently saw some talks on quantum computing and I’ve been inspired to start researching the field myself. There are now a handful of (known) quantum computers in existence, some of which, such as the “IBM Q Experience” allow you to execute real quantum programs. I’ll give an overview of the state of the art, what the potential of quantum computing is, what its limitations might be and a small dose of speculation on what applications could be suited to to quantum computers and when they might start to be really useful.<br/><br/>I’ve also designed a demonstration of Quantum Computing, using Microsoft’s Q# (not a real quantum computer, it is a simulator designed to run on a traditional digital computer) called “Clementine’s Cat”. I was inspired to make Clementine’s Cat when I described Shrodinger’s Cat to my daughter and she was horified that anybody would do such a thing to their cat. So Clementine’s Cat is a humane modern spin on the traditional quantum thought experiment in which no cats are harmed, either theoretically or in reality."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Tugberk Ugurlu",
+                "tag": "tugberk-ugurlu"
+              },
+              "time": "11:40",
+              "lecture": {
+                "title": "Essentials for Building and Leading Highly Effective Development Teams ",
+                "description": "Individually creating software to get the tasks done is the easier part of the whole story compared to doing it as a development team. From conflict resolution between the team members to deciding what features goes into the product, the team needs to make countless of decisions everyday and I bet you want to do this fast in order to hold on to your business’ competitive advantage.<br/><br/>As being a Technical Lead to a software development team, I’ll share my experience in this talk on what the essential principles are for building and leading a fast-paced, customer-centric and effective software development team. By the end of the talk, I hope to leave you with a few ideas that you can experiment within your own teams."
+              }
+            },
+            {
+              "speaker": {
+                "name": "James Allardice",
+                "tag": "james-allardice"
+              },
+              "time": "13:40",
+              "lecture": {
+                "title": "Do You Want to Build a Blockchain?",
+                "description": "Blockchain. Is there likely to be a bigger buzzword over the next few years? As more and more cryptocurrencies make their debuts, the underlying technology is starting to mature and businesses from a wide range of industries are starting to take note.<br/><br/>This talk will explore some of the key concepts from a JavaScript point of view. We'll start by putting together a simple blockchain, progress to adding peer-to-peer networking to allow the nodes in our network to communicate, proof of work so that those nodes can trust the data they receive, and finally a transaction system to put that blockchain to use.<br/><br/>You'll go away with a solid understanding of core blockchain and cryptocurrency concepts that should give you a great head start as we head into a landscape increasingly dominated by such technologies."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Agnieszka Jach, Jakub Gutkowski, Piotr Stapp",
+                "tag": "lightning-talks"
+              },
+              "time": "14:50",
+              "lecture": {
+                "title": "Lightning Talks",
+                "description": "<strong>Painting Mona Lisa with Artificial Intelligence</strong> - Agnieszka Jach<br/>We are slowly getting used to see cars driven by artificial intelligence or surgeries performed by robots. But have you ever wondered when being in an art gallery if it is possible to recreate famous paintings? Can an algorithm repaint glorious Mona Lisa by Leonardo da Vinci? Would her smile be as intriguing as in original? Algorithm based on natural evolution, that determines which species are strong enough to survive and develop and which are going to extinct, can recreate paintings without any artistic talents.<br/><br/><strong>TBA</strong> - Jakub Gutkowski<br/><br/><br/><strong>Cryptocurrency - The Dark Side</strong> - Piotr Stapp<br/>Do I stick to my core investing values and principles and ignore the cryptocurrency craze? Or, do I succumb to the “dark side” and buy some Litecoin or Bitcoin, hoping that demand keeps rising and prices continue to soar?<br/><br/>Wrong!!! Instead, we should ask if using cryptocurrency is ethical?"
+              }
+            },
+            {
+              "speaker": {
+                "name": "Marek Stój",
+                "tag": "marek-stoj"
+              },
+              "time": "16:10",
+              "lecture": {
+                "title": "Sitting Considered Deadly",
+                "description": "Prolonged sitting is linked to myriad health problems and you can’t completely mitigate the risks by just exercising in leisure time. The solution to this problem is simple but not easy to implement. This talk will show you the first step to getting out of your chair and fighting for your health."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Conference Day 2",
+      "date": "28 September 2018",
+      "rooms": [
+        {
+          "name": "Room 1",
+          "slots": [
+            {
+              "speaker": {
+                "name": "Linda Rising",
+                "tag": "linda-rising"
+              },
+              "time": "9:30",
+              "lecture": {
+                "title": "Thinking Fast and Slow",
+                "description": "When Daniel Kahneman won the Nobel Prize for developing a new model of how the brain works, it changed how we think about thinking. If you haven't had time to read Kahneman's book 'Thinking Fast and Slow,' or even if you have, Linda will 'translate' the model and what it means for us in working better. We know that our jobs involve thinking, problem-solving, and decision-making. We all want to do a better job of thinking fast and slow. Linda will help you get started with that."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Damien Pacaud",
+                "tag": "damien-pacaud"
+              },
+              "time": "10:40",
+              "lecture": {
+                "title": "Tools and Team for 20 Billion PageView/Month",
+                "description": "How we scaled our business to more than 1.2B Unique Visitor monthly, from an infrastructure point of view. Tips and tricks about the tools that we use extensively (AWS, GCP, Terraform, Chef), the challenges of multi-region presence and the human side of things (team size, location, on-call)."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Bernd Rücker",
+                "tag": "bernd-rucker"
+              },
+              "time": "11:50",
+              "lecture": {
+                "title": "Complex Event Flows in Distributed Systems",
+                "description": "The world is moving towards microservices, DDD, event-driven, reactive etc.. We saw quite some projects going down that route, but making some severe mistakes on the way. This talk goes over the war stories and make certain concepts tangible in order to allow attendees to avoid these pains."
+              }
+            },
+            {
+              "speaker": {
+                "name": "William Brander",
+                "tag": "william-brander"
+              },
+              "time": "13:50",
+              "lecture": {
+                "title": "Microfrontends and UI Composition - a Code-First Dive",
+                "description": "As developers we spend a lot of time structuring our systems just right. We make sure we select the right patterns, use the right combination of acronyms (CQRS + DDD + ES), and do all the right devops so that we can scale up/out/elastically. This adherence to best practices seems to fall apart at the front end though. We have separation on the back end, but on the front end this all needs to come together. How do we stop it from turning into a mess of spaghetti code? How do we prevent simple actions from triggering hundreds of web requests? Join William as he builds a .NET Core Composite UI using React from scratch."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Adam Ralph",
+                "tag": "adam-ralph"
+              },
+              "time": "15:00",
+              "lecture": {
+                "title": "Finding Your Service Boundaries - a Practical Guide",
+                "description": "We know it’s useful to split up complex systems. We’ve seen the benefits of modular deployment of microservices. Dealing with only one piece of code at a time eases our cognitive load. But how do we know where to draw the service boundaries? In complex business domains, it’s often difficult to know where to start. When we get our boundaries wrong, the clocks starts ticking. Before long, we hear ourselves say “it would be easier to re-write it”.<br/><br/>Join Adam for practical advice on discovering the hidden boundaries in your systems. Help tease out the natural separation of concerns in a sample business domain. During 20 years of developing complex systems, Adam has had plenty of time to get things wrong. Learn to avoid the common pitfalls that can lead us down the path to “the big re-write”."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Vladimir Dejanovic",
+                "tag": "vladimir-dejanovic"
+              },
+              "time": "16:10",
+              "lecture": {
+                "title": "REST API vs gRPC, Which One Should You Use in Breaking a Monolith",
+                "description": "You heard of “new thing” called gRPC and promises that it will solve all issues for you, so now you are not sure if you should use it for breaking up your monolith to Microservices. If it is good for Google it should be good for you also right?On the other hand, you have been using REST API’s for some time now, at least as a consumer, so maybe this would be better approach in Microservices waters, or would it?<br/><br/>Which one to chose and which one will fit your use case better?<br/><br/>Join me in this talk were I will try to explain both approaches, good and bad. I will give some points and tips, which will help you in understanding better which one will be better for you. By doing this I will also share some best practices for both approaches."
+              }
+            },
+            {
+              "speaker": {
+                "name": "TBA",
+                "tag": "tba"
+              },
+              "time": "17:20",
+              "lecture": {
+                "title": "TBA",
+                "description": "TBA"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Room 2",
+          "slots": [
+            {
+              "speaker": {
+                "name": "TBA",
+                "tag": "tba"
+              },
+              "time": "10:40",
+              "lecture": {
+                "title": "TBA",
+                "description": "TBA"
+              }
+            },
+            {
+              "speaker": {
+                "name": "Heather Downing",
+                "tag": "heather-downing"
+              },
+              "time": "11:50",
+              "lecture": {
+                "title": "Google vs Alexa: Battle of the Bots",
+                "description": "Why choose? Support them all! This code-centric talk demonstrates the approach you need to centralize your app logic and handle multiple voice interface ecosystems at once. We will walk through code examples for Alexa and Google Assistant integration, discovering the pros and cons of each in detail."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Zuzanna Pacholczyk",
+                "tag": "zuzanna-pacholczyk"
+              },
+              "time": "13:50",
+              "lecture": {
+                "title": "How Children Taught Me Joy of Programming While Teaching Them Coding",
+                "description": "Teaching others is a great way of learning new skills. That knows almost everyone. But still we do not use this opportunity. We don't have time for it, we are afraid of speaking in public or we do not feel good enough to teach others. So how about starting with teaching children? You teach them basics, so you definitely have the skills needed and this is an empathic audience so no worries you will fail. I've tried this and now I would like to tell you why it is so good! And what experiences I gained which I wouldn't get teaching adults. And, of course, how to do this and how it looks like."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Dave Aronson",
+                "tag": "dave-aronson"
+              },
+              "time": "15:00",
+              "lecture": {
+                "title": "ACRUMEN: The Six Key Aspects of Software Quality",
+                "description": "Do you like writing bad software? Of course not! Learn about ACRUMEN, an acronym for the six key aspects of software quality in priority order, and how to achieve them. These concepts are timeless and technology-agnostic, useful with languages from the dinosaur days to tomorrow and beyond."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Kim van Wilgen",
+                "tag": "kim-van-wilgen"
+              },
+              "time": "16:10",
+              "lecture": {
+                "title": "TBA",
+                "description": "TBA"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Room 3",
+          "slots": [
+            {
+              "speaker": {
+                "name": "Markus Winand",
+                "tag": "markus-winand"
+              },
+              "time": "10:40",
+              "lecture": {
+                "title": "Modern SQL: Evolution of a Dinosaur",
+                "description": "SQL has evolved considerably in recent years. The purely relational dogma was already abandoned in 1999. What followed was continuous extension through the incorporation of handy features to address problems that are hard to solve with relational algebra. Today, SQL is Turing complete, can process graphs, has semantic understanding of XML and JSON, is able to automatically keep historic versions, can analyze time series using regular expressions and much more.<br/><br/>This session walks through the SQL standards from 1999 to the current version of 2016. It demonstrates some selected features on the basis of common problems and compares the traditional SQL-92 solution to the modern SQL approach. Of course, the presentation also shows how long these features are supported by various databases so that you immediately know whether the shown solutions work in your environment or not.<br/><br/>In this session, developers and software architects of all levels gain a better understanding where SQL is today so that they are able to make more educated decisions. A lot has happened since SQL-92!"
+              }
+            },
+            {
+              "speaker": {
+                "name": "Michał Łusiak",
+                "tag": "michal-lusiak"
+              },
+              "time": "11:50",
+              "lecture": {
+                "title": "N Ways to Do Machine Learning on .NET",
+                "description": "Machine Learning is taking over the world. But when you start looking at tutorials, you see mostly intros in Keras, Tensorflow and other Python frameworks. In this talk, I’ll show you few ways how to build and run ML models using .NET - both handcrafted and using fully fledged frameworks."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Spencer Schneidenbach",
+                "tag": "spencer-schneidenbach"
+              },
+              "time": "13:50",
+              "lecture": {
+                "title": "Using Immutable Data Structures in C# and .NET",
+                "description": "TBD"
+              }
+            },
+            {
+              "speaker": {
+                "name": "Anna Lee Anda",
+                "tag": "anna-lee-anda"
+              },
+              "time": "15:00",
+              "lecture": {
+                "title": "Empathy for Everyone ",
+                "description": "A good understanding of users and their problems is relegated to a designer or PM. By everyone having a basic understanding of their user it’s easier to work towards a common goal. It doesn’t have to be a big undertaking it could be something that is done occasionally for the benefit of the team."
+              }
+            },
+            {
+              "speaker": {
+                "name": "Sebastian Gębski",
+                "tag": "sebastian-gebski"
+              },
+              "time": "16:10",
+              "lecture": {
+                "title": "Code Foresting: Automating Architecture Governance for .NET Teams",
+                "description": "Techniques like Continuous Inspection & Convention Testing can help a lot with maintaining & governance of complex architectures in big teams. This is a case study of applying these concepts for .NET-based system (brownfield), using tools like NDepend, Roslyn, DocFx, Cake & PowerShell."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
