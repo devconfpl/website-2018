@@ -360,6 +360,28 @@
       },
       "tag": "anna-lee-anda",
       "description": "<p>Anna Lee Anda is a User Experience Researcher based in Singapore. Currently she is working for Zendesk, a global SaaS company which builds software for better customer relationships. She has experience working in the technology and financial industries. Anna is passionate about educating designers and product development teams about the benefits of research and taking a pragmatic approach to delivering successful results.</p>"
+    },
+    {
+      "name": "Heather Downing",
+      "surname": "Downing",
+      "company": "VML",
+      "social": {
+        "twitter": "quorralyne",
+        "linkedin": "heathermdowning"
+      },
+      "tag": "heather-downing",
+      "description": "<p>Heather is a passionate coder and entrepreneur. She has experience working with Fortune 500 companies building enterprise-level voice, mobile and C#/.Net applications. She focuses on external thought leadership, encouraging fellow programmers to present on topics outside of the office and in the community. She is an international technical speaker and co-host of the YouTube channel “The Hello World Show” – a weekly video series that interviews software masters and teaches the audience something valuable in less than 10 minutes.</p><p>Heather encourages those with nontraditional backgrounds to enter the world of software development, as she changed careers at 27 and does not have a degree - yet has built a reputation as an early adapter of new tech. She is an advocate of women in tech, and part of Kansas City Women in Technology. When not coding, Heather spends her time as a competitive equestrian and learning the art of mounted archery.</p>"
+    },
+    {
+      "name": "Damien Pacaud",
+      "surname": "Pacaud",
+      "company": "Teads.tv",
+      "social": {
+        "twitter": "damienpacaud",
+        "linkedin": "damienpacaud"
+      },
+      "tag": "damien-pacaud",
+      "description": "<p>I am currently Director of Engineering - Infrastructure at teads.tv and have been in the industry for about 11 years. Previously, I was leading the cloud team at Softbank Robotics, making sure those humanoid robots were always connected. My main focus for those 11 years has been building dev and infra teams, leading them to scale the business in a very automated way.</p><p>I am a natural born geek with an entrepreneur spirit and love to discuss around anything tech related, management related or neat cultural differences. I have lived in many countries / part of the world and love to meet new people from all around the globe.</p>"
     }
   ]
 }
