@@ -392,13 +392,13 @@
             },
             {
               "speaker": {
-                "name": "TBA",
-                "tag": "tba"
+                "name": "Anna Lee Anda",
+                "tag": "anna-lee-anda"
               },
               "time": "15:00",
               "lecture": {
-                "title": "TBA",
-                "description": "TBA"
+                "title": "Empathy for everyone ",
+                "description": "Understanding your users and customers is something that is easily implementable - it is a low effort, high value activity that can be performed on a regular basis to develop empathy. User visits or interviews also help to bring non-UX designers in touch with their user base in real world situations. In this talk I will discuss the benefits on contextual research including the surprising insights gained from a cross-functional team visit to a call centre based in Manila. Repeating similar visits across the globe has led to a tectonic shift in how we understand our users and the interdependency on environmental and contextual variables.<br/><br/>Such visits have become a mainstay at Zendesk and typically include a researcher, UX designer, developer, and a product manager. These trips not only allow us to better understand our users but also the environment and context in which they operate. I’ll also cover other research methods which would provide lightweight knowledge about your users.<br/><br/>This talk is relevant to anyone and everyone, but is particularly useful for those with an existing customer/user base and who don’t interact with them much. You’ll be inspired to be in touch with your users more and know how to go about it."
               }
             },
             {
