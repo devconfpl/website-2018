@@ -371,6 +371,17 @@
       },
       "tag": "damien-pacaud",
       "description": "<p>I am currently Director of Engineering - Infrastructure at teads.tv and have been in the industry for about 11 years. Previously, I was leading the cloud team at Softbank Robotics, making sure those humanoid robots were always connected. My main focus for those 11 years has been building dev and infra teams, leading them to scale the business in a very automated way.</p><p>I am a natural born geek with an entrepreneur spirit and love to discuss around anything tech related, management related or neat cultural differences. I have lived in many countries / part of the world and love to meet new people from all around the globe.</p>"
+    },
+    {
+      "name": "Felienne Hermans",
+      "surname": "Hermans",
+      "company": "Delft University of Technology",
+      "social": {
+        "twitter": "Felienne",
+        "linkedin": "felienne"
+      },
+      "tag": "felienne-hermans",
+      "description": "<p>Felienne is assistant professor at Delft University of Technology, where she researches programming for everyone, from spreadsheet users to young kids. Felienne’s biggest passions in life is to share her enthusiasm for programming with others. She teaches programming in a community center in Rotterdam every week, she organizes the <a href=\"http://joyofcoding.org/\">Joy of Coding</a> conference, a one day developer conference in Rotterdam celebrating the joy and art of programming, and she is a host at <a href=\"http://se-radio.net/\">SE radio</a>, one of the most popular software engineering podcasts on the web.</p><p>If she is not coding, blogging or teaching, she is probably dancing Lindy Hop, running or playing a (board)game.</p><p>Felienne blogs at <a href=\"http://felienne.com/\">felienne.com</a>.</p>"
     }
   ]
 }

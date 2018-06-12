@@ -75,13 +75,13 @@
             },
             {
               "speaker": {
-                "name": "Steven Schkolne",
-                "tag": "steven-schkolne"
+                "name": "Felienne Hermans",
+                "tag": "felienne-hermans"
               },
               "time": "17:20",
               "lecture": {
-                "title": "A New Oracle for Predicting Future Technology",
-                "description": "Everyone wants to know what’s coming next. Science fiction, our trusted oracle of future technology, has failed us again and again. So what can we use? In this talk I present a new model for looking at the emergence of killer technologies. I’ll take you on a whirlwind tour from the earliest history of electronic computing to the present. We’ll see how some factors arise, again and again, to shape machine evolution. I will describe how these forces shaped the recent emergence of mobile computing and virtual reality. Then I will project forward, applying my model to the speculative technologies of today (AR, blockchain, etc). Using this model, we in the tech world can apply our efforts to the true new future, as opposed to the dim, regressive fantasies of sci-fi."
+                "title": "TBD",
+                "description": "TBD"
               }
             }
           ]
@@ -283,13 +283,13 @@
             },
             {
               "speaker": {
-                "name": "TBA",
-                "tag": "tba"
+                "name": "Steven Schkolne",
+                "tag": "steven-schkolne"
               },
               "time": "17:20",
               "lecture": {
-                "title": "TBA",
-                "description": "TBA"
+                "title": "A New Oracle for Predicting Future Technology",
+                "description": "Everyone wants to know what’s coming next. Science fiction, our trusted oracle of future technology, has failed us again and again. So what can we use? In this talk I present a new model for looking at the emergence of killer technologies. I’ll take you on a whirlwind tour from the earliest history of electronic computing to the present. We’ll see how some factors arise, again and again, to shape machine evolution. I will describe how these forces shaped the recent emergence of mobile computing and virtual reality. Then I will project forward, applying my model to the speculative technologies of today (AR, blockchain, etc). Using this model, we in the tech world can apply our efforts to the true new future, as opposed to the dim, regressive fantasies of sci-fi."
               }
             }
           ]
