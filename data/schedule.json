@@ -299,13 +299,13 @@
           "slots": [
             {
               "speaker": {
-                "name": "TBA",
-                "tag": "tba"
+                "name": "Dave Aronson",
+                "tag": "dave-aronson"
               },
               "time": "10:40",
               "lecture": {
-                "title": "TBA",
-                "description": "TBA"
+                "title": "ACRUMEN: The Six Key Aspects of Software Quality",
+                "description": "Do you like writing bad software? Of course not! Learn about ACRUMEN, an acronym for the six key aspects of software quality in priority order, and how to achieve them. These concepts are timeless and technology-agnostic, useful with languages from the dinosaur days to tomorrow and beyond."
               }
             },
             {
@@ -332,13 +332,13 @@
             },
             {
               "speaker": {
-                "name": "Dave Aronson",
-                "tag": "dave-aronson"
+                "name": "TBA",
+                "tag": "tba"
               },
               "time": "15:00",
               "lecture": {
-                "title": "ACRUMEN: The Six Key Aspects of Software Quality",
-                "description": "Do you like writing bad software? Of course not! Learn about ACRUMEN, an acronym for the six key aspects of software quality in priority order, and how to achieve them. These concepts are timeless and technology-agnostic, useful with languages from the dinosaur days to tomorrow and beyond."
+                "title": "TBA",
+                "description": "TBA"
               }
             },
             {
