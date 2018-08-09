@@ -30,6 +30,8 @@
   }
 </style>
 
+<% current_page.data.title = speaker.name + " @ DevConf 2018" %>
+
 <%= partial "header" %>
 
 <div class="container-fluid">
@@ -62,7 +64,7 @@
 </div>
 
 <% content_for :metahead do %>
-  <meta name="description" content="<%= speaker.name %> @ DevConf 2018">
+  <meta name="description" content="<%= speaker.description %>">
   <meta name="keywords" content="<%= speaker.name%>, devconf, software, developers, conference">
 
   <meta name="twitter:card" content="summary" />
