@@ -55,6 +55,20 @@
                 <% end %>
               </ul>
               <%= speaker.description %>
+              <hr/>
+              <div style="text-align: left;">
+                <% data.sessions.items.select{|session| session.speaker_tag.include? speaker.tag}.each do |session| %>
+                  <div>
+                    <h7>
+                      <span class="highlight">Day <%= session.day %>, <%= session.time %> - </span>
+                      <%= session.title %>
+                    </h7>
+                    <p class="small">
+                      <%= session.description %>
+                    </p>
+                  </div>
+                <% end %>
+              </div>
             </div>
           </div>
         </article>

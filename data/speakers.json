@@ -31,7 +31,7 @@
         "linkedin": "bernd-ruecker-21661122"
       },
       "tag": "bernd-rucker",
-      "description": "<p>Throughout my 15+ years in software development, I have helped automating highly scalable core workflows at global companies including T-Mobile, Lufthansa and Zalando. I have contributed to various open source workflow engines. I am co-founder and developer advocate of Camunda, an open source software company reinventing workflow automation. I co-authored \"Real-Life BPMN,\" a popular book about workflow modeling and automation, now in its fifth edition and available in English, German and Spanish. I regularly speak at conferences and write for various magazines. I am currently focused on new workflow automation paradigms that fit into modern architectures around distributed systems, microservices, domain-driven design, event-driven architecture and reactive systems.</p>"
+      "description": "<p>Throughout my 15+ years in software development, I have helped automating highly scalable core workflows at global companies including T-Mobile, Lufthansa and Zalando. I have contributed to various open source workflow engines. I am co-founder and developer advocate of Camunda, an open source software company reinventing workflow automation. I co-authored Real-Life BPMN, a popular book about workflow modeling and automation, now in its fifth edition and available in English, German and Spanish. I regularly speak at conferences and write for various magazines. I am currently focused on new workflow automation paradigms that fit into modern architectures around distributed systems, microservices, domain-driven design, event-driven architecture and reactive systems.</p>"
     },
     {
       "name": "Markus Winand",
@@ -163,7 +163,7 @@
         "linkedin": "piotrstapp"
       },
       "tag": "piotr-stapp",
-      "description": "<p>I call myself a developer, an engineer, a craftsman, a designer and a biker. I’m a user of every useful technology. I believe in people not papers. I’m adept at DevOps and automation. I love web technologies Formerly IT Expert at mBank, now IT Architect in FinAi. I’m also Microsoft MVP. My blog: <a href=\"https://stapp.space\">https://stapp.space</a>.</p>"
+      "description": "<p>I call myself a developer, an engineer, a craftsman, a designer and a biker. I’m a user of every useful technology. I believe in people not papers. I’m adept at DevOps and automation. I love web technologies Formerly IT Expert at mBank, now IT Architect in FinAi. I’m also Microsoft MVP. My blog: https://stapp.space</p>"
     },
     {
       "name": "Richard Lewington",
@@ -218,7 +218,7 @@
         "linkedin": "szymonwarda"
       },
       "tag": "szymon-warda",
-      "description": "<p>With .NET from version 1.1 and with web development from the time when IE6 was the “better” browser. Working with machine learning, cloud, and big data by day. By night a developer of cookit.pl- a pet project processing hundred of gigabytes of data with whatever suits the problem best (Graph databases/ML/C#/F#). Technology enthusiast, Neo4j ambassador, speaker, and a blogger at <a href=\"https://indexoutofrange.com/\">IndexOutOfRange.com</a>.</p>"
+      "description": "<p>With .NET from version 1.1 and with web development from the time when IE6 was the “better” browser. Working with machine learning, cloud, and big data by day. By night a developer of cookit.pl- a pet project processing hundred of gigabytes of data with whatever suits the problem best (Graph databases/ML/C#/F#). Technology enthusiast, Neo4j ambassador, speaker, and a blogger at IndexOutOfRange.com.</p>"
     },
     {
       "name": "Linda Rising",
@@ -240,7 +240,7 @@
         "linkedin": "tpeczek"
       },
       "tag": "tomasz-peczek",
-      "description": "<p>Developer, <a href=\"http://www.tpeczek.com/\">blogger</a>, speaker and <a href=\"https://github.com/tpeczek\">open source author/contributor</a> focused on Web Development in context of ASP.NET (Core) platform. For more than 10 years he has been creating web applications for health care, banking or e-learning industries. Currently he works in Oracle as an applications architect where his main areas of responsibility are web applications performance and security. Microsoft MVP in Visual Studio and Development Technologies category.</p>"
+      "description": "<p>Developer, blogger, speaker and open source author/contributor focused on Web Development in context of ASP.NET (Core) platform. For more than 10 years he has been creating web applications for health care, banking or e-learning industries. Currently he works in Oracle as an applications architect where his main areas of responsibility are web applications performance and security. Microsoft MVP in Visual Studio and Development Technologies category.</p>"
     },
     {
       "name": "Vladimir Dejanovic",
@@ -305,7 +305,7 @@
         "linkedin": "sschneidenbach"
       },
       "tag": "spencer-schneidenbach",
-      "description": "<p>Spencer Schneidenbach is a web developer, Microsoft MVP, speaker, consultant, and blogger in the St. Louis area, focusing on JavaScript/TypeScript, C#, React/Redux, and ASP.NET. He is the owner of Aviron Software, a consultancy specializing in cloud- and web-based software solutions.</p><p>Full speaking history and blog can be found at <a href=\"http://schneids.net\">http://schneids.net</a>.</p>"
+      "description": "<p>Spencer Schneidenbach is a web developer, Microsoft MVP, speaker, consultant, and blogger in the St. Louis area, focusing on JavaScript/TypeScript, C#, React/Redux, and ASP.NET. He is the owner of Aviron Software, a consultancy specializing in cloud- and web-based software solutions.</p><p>Full speaking history and blog can be found at http://schneids.net.</p>"
     },
     {
       "name": "Rob Ashton",
@@ -381,7 +381,7 @@
         "linkedin": "felienne"
       },
       "tag": "felienne-hermans",
-      "description": "<p>Felienne is assistant professor at Delft University of Technology, where she researches programming for everyone, from spreadsheet users to young kids. Felienne’s biggest passions in life is to share her enthusiasm for programming with others. She teaches programming in a community center in Rotterdam every week, she organizes the <a href=\"http://joyofcoding.org/\">Joy of Coding</a> conference, a one day developer conference in Rotterdam celebrating the joy and art of programming, and she is a host at <a href=\"http://se-radio.net/\">SE radio</a>, one of the most popular software engineering podcasts on the web.</p><p>If she is not coding, blogging or teaching, she is probably dancing Lindy Hop, running or playing a (board)game.</p><p>Felienne blogs at <a href=\"http://felienne.com/\">felienne.com</a>.</p>"
+      "description": "<p>Felienne is assistant professor at Delft University of Technology, where she researches programming for everyone, from spreadsheet users to young kids. Felienne’s biggest passions in life is to share her enthusiasm for programming with others. She teaches programming in a community center in Rotterdam every week, she organizes the Joy of Coding conference, a one day developer conference in Rotterdam celebrating the joy and art of programming, and she is a host at SE radio, one of the most popular software engineering podcasts on the web.</p><p>If she is not coding, blogging or teaching, she is probably dancing Lindy Hop, running or playing a (board)game.</p><p>Felienne blogs at felienne.com.</p>"
     },
     {
       "name": "Anna Lee Anda",

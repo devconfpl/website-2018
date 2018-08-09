@@ -129,7 +129,7 @@
               },
               "time": "14:50",
               "lecture": {
-                "title": "With Great Power Comes Great Responsibility - Using HTTP/2 Responsibly ",
+                "title": "With Great Power Comes Great Responsibility - Using HTTP/2 Responsibly",
                 "description": "A lot has been written about new features in HTTP/2 and performance improvements it’s bringing, so you have probably read some of it (don’t worry if you didn’t, there will be a brief recap). But we all know there is nothing for free in IT (and especially Web) world. There are no “no brainers” or “silver bullets”. This talk focuses on what to consider to get the most out of HTTP/2 without hurting yourself or your users in the process."
               }
             },
@@ -140,7 +140,7 @@
               },
               "time": "16:10",
               "lecture": {
-                "title": "Client Says Your Awesome Web App Works Slowly. Now What? ",
+                "title": "Client Says Your Awesome Web App Works Slowly. Now What?",
                 "description": "You did great job finishing this web app on time and budget. Design patterns, good code coverage, cutting edge frameworks and best CI ever. It goes to production and boom, clients complain it's too slow. They don't really care, if it's best engineering ever, if each view loads 2 seconds. My presentation will give you hints on how to look for bottlenecks. I will also share simple tricks to make the app work faster, or at least seem to work faster."
               }
             }
@@ -167,7 +167,7 @@
               },
               "time": "11:40",
               "lecture": {
-                "title": "Essentials for Building and Leading Highly Effective Development Teams ",
+                "title": "Essentials for Building and Leading Highly Effective Development Teams",
                 "description": "Individually creating software to get the tasks done is the easier part of the whole story compared to doing it as a development team. From conflict resolution between the team members to deciding what features goes into the product, the team needs to make countless of decisions everyday and I bet you want to do this fast in order to hold on to your business’ competitive advantage.<br/><br/>As being a Technical Lead to a software development team, I’ll share my experience in this talk on what the essential principles are for building and leading a fast-paced, customer-centric and effective software development team. By the end of the talk, I hope to leave you with a few ideas that you can experiment within your own teams."
               }
             },
@@ -397,7 +397,7 @@
               },
               "time": "15:00",
               "lecture": {
-                "title": "Empathy for everyone ",
+                "title": "Empathy for Everyone",
                 "description": "Understanding your users and customers is something that is easily implementable - it is a low effort, high value activity that can be performed on a regular basis to develop empathy. User visits or interviews also help to bring non-UX designers in touch with their user base in real world situations. In this talk I will discuss the benefits on contextual research including the surprising insights gained from a cross-functional team visit to a call centre based in Manila. Repeating similar visits across the globe has led to a tectonic shift in how we understand our users and the interdependency on environmental and contextual variables.<br/><br/>Such visits have become a mainstay at Zendesk and typically include a researcher, UX designer, developer, and a product manager. These trips not only allow us to better understand our users but also the environment and context in which they operate. I’ll also cover other research methods which would provide lightweight knowledge about your users.<br/><br/>This talk is relevant to anyone and everyone, but is particularly useful for those with an existing customer/user base and who don’t interact with them much. You’ll be inspired to be in touch with your users more and know how to go about it."
               }
             },
