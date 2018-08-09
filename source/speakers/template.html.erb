@@ -60,3 +60,18 @@
     </main>
   </div>
 </div>
+
+<% content_for :metahead do %>
+  <meta name="description" content="<%= speaker.name %> @ DevConf 2018">
+  <meta name="keywords" content="<%= speaker.name%>, devconf, software, developers, conference">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@devconfpl" />
+  <meta name="twitter:creator" content="@devconfpl" />
+  <meta prefix="og: http://ogp.me/ns#" property="og:url" content="http://devconf.pl/speakers/<%= speaker.tag%>" />
+  <meta prefix="og: http://ogp.me/ns#" property="og:type" content="website" />
+  <meta prefix="og: http://ogp.me/ns#" property="og:title" content="<%= speaker.name %> @ DevConf 2018" />
+  <meta prefix="og: http://ogp.me/ns#" property="og:description" content="<%= speaker.description %>" />
+  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="http://devconf.pl/images/speakers/<%= speaker.tag %>.png" />
+  <meta property="fb:app_id" content="230234777452193" />
+<% end %>
