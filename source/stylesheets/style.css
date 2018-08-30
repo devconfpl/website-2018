@@ -5898,6 +5898,7 @@ button[type="submit"] .loading {
 .sponsor.big {
   width: 255px;
   height: 255px;
+  margin: 0;
 }
 .sponsor.inline {
   vertical-align: middle;
