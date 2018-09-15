@@ -382,17 +382,6 @@
       },
       "tag": "felienne-hermans",
       "description": "<p>Felienne is assistant professor at Delft University of Technology, where she researches programming for everyone, from spreadsheet users to young kids. Felienne’s biggest passions in life is to share her enthusiasm for programming with others. She teaches programming in a community center in Rotterdam every week, she organizes the Joy of Coding conference, a one day developer conference in Rotterdam celebrating the joy and art of programming, and she is a host at SE radio, one of the most popular software engineering podcasts on the web.</p><p>If she is not coding, blogging or teaching, she is probably dancing Lindy Hop, running or playing a (board)game.</p><p>Felienne blogs at felienne.com.</p>"
-    },
-    {
-      "name": "Anna Lee Anda",
-      "surname": "Anda",
-      "company": "Zendesk",
-      "social": {
-        "twitter": "annaleeanda",
-        "linkedin": "annaleeanda"
-      },
-      "tag": "anna-lee-anda",
-      "description": "<p>Anna Lee Anda is a User Experience Researcher based in Singapore. Currently she is working for Zendesk, a global SaaS company which builds software for better customer relationships. She has experience working in the technology and financial industries. Anna is passionate about educating designers and product development teams about the benefits of research and taking a pragmatic approach to delivering successful results.</p>"
     }
   ]
 }
